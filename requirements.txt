@@ -1,0 +1,4 @@
+matplotlib
+onnxruntime-gpu
+jupyterlab
+scalene
